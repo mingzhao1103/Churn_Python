@@ -11,14 +11,14 @@
 - Model Training and Evaluation
   - Dataset Splitting
   - Model Training and Selection
-        - **Logistic Regression**
-        - **KNN**
-        - **Random Forest**     
-        - Cross Validation
+      - **Logistic Regression**
+      - **KNN**
+      - **Random Forest**     
+      - Cross Validation
   - Grid Search for Optimal Hyperparameters
   - Model Evaluation
-        - Precision & Recall & Accuracy
-        - ROC & AUC
+      - Precision & Recall & Accuracy
+      - ROC & AUC
 - Feature Discussion
   - Feature Selection - Logistic Regression
   - Feature Importance - Random Forest 
