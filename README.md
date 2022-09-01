@@ -14,7 +14,7 @@
       - **Logistic Regression**
       - **KNN**
       - **Random Forest**     
-      - Cross Validation
+  - Cross Validation
   - Grid Search for Optimal Hyperparameters
   - Model Evaluation
       - Precision & Recall & Accuracy
