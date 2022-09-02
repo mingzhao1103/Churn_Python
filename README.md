@@ -6,22 +6,26 @@
 
 #### Outline
 
-- Data Exploration
-- Feature Preprocessing
-- Model Training and Evaluation
-  - Dataset Splitting
-  - Model Training and Selection
-      - **Logistic Regression**
-      - **KNN**
-      - **Random Forest**     
-  - Cross Validation
-  - Grid Search for Optimal Hyperparameters
-  - Model Evaluation
-      - Precision & Recall & Accuracy
-      - ROC & AUC
-- Feature Discussion
-  - Feature Selection - Logistic Regression
-  - Feature Importance - Random Forest 
+-   Data Cleaning   
+-   Exploratory Data Analysis
+    - Univariate
+    - Bivariate
+-   Feature Engineering
+-   Modelling
+    - Dataset Splitting
+    - Model Training
+        - **Logistic Regression**
+        - **KNN**
+        - **Random Forest**  
+    - Model Selection
+        - 5-Fold Cross Validation
+        - Grid Search for Optimal Hyperparameters
+    - Model Evaluation
+        - Accuracy, Precision, Recall
+        - ROC-AUC
+-   Discussion
+    - Feature Selection - Logistic Regression
+    - Feature Importance - Random Forest
 
 #### HTML Preview
 
