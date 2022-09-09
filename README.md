@@ -2,7 +2,7 @@
 
 #### Project Summary 
 
-- In this project, I use supervised models to identify customers who are likely to churn and analyze the top factors that influence customer retention.
+- In this project, I used supervised models to identify customers who are likely to churn and analyzed the top factors that influence customer retention.
 
 #### Outline
 
