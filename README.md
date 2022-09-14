@@ -23,9 +23,9 @@
     - Model Evaluation
         - Accuracy, Precision, Recall
         - ROC-AUC
--   Discussion
-    - Feature Selection - Logistic Regression
-    - Feature Importance - Random Forest
+-   Feature Importance
+    - Coefficient - Logistic Regression
+    - Gini Importance - Random Forest
 
 #### HTML Preview
 
