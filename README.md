@@ -29,4 +29,4 @@
 
 #### HTML Preview
 
-https://htmlpreview.github.io/?https://github.com/mingzhao1103/Python_Churn/blob/main/churn.html
+https://github.com/mingzhao1103/Python_Churn/blob/main/churn.ipynb
