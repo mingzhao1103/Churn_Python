@@ -16,7 +16,8 @@
     - Model Training
         - **Logistic Regression**
         - **KNN**
-        - **Random Forest**  
+        - **Random Forest**
+        - **SVM**  
     - Model Selection
         - 5-Fold Cross Validation
         - Grid Search for Optimal Hyperparameters
