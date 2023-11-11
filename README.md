@@ -30,5 +30,5 @@
 
 #### HTML Preview
 
-https://github.com/mingzhao1103/Python_Churn/blob/main/churn.ipynb
+https://htmlpreview.github.io/?https://github.com/mingzhao1103/Python_Churn/blob/main/churn.html
 
