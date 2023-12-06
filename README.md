@@ -4,7 +4,7 @@
 
 - In this project, I used machine learning models to identify customers who are likely to churn and analyzed the top factors that influence customer retention.
 
-#### Outline
+#### Outline 
 
 -   Data Cleaning   
 -   Exploratory Data Analysis
