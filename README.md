@@ -17,6 +17,7 @@
         - **Logistic Regression**
         - **KNN**
         - **Random Forest**
+        - **Gradient Boosted Trees**
         - **SVM**  
     - Model Selection
         - 5-Fold Cross Validation
@@ -27,6 +28,7 @@
 -   Feature Importance
     - Coefficient - Logistic Regression
     - Gini Importance - Random Forest
+    - Gini Importance - Gradient Boosted Trees
 
 #### HTML Preview
 
